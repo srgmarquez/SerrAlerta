@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Portada</string>
+    <string name="mis_botones">Mis botones</string>
+    <string name="otras">Otras configuraciones</string>
+    <string name="titulo">SerrAlerta</string>
+    <string name="numero">Número</string>
+    <string name="crear_boton">Crear botón</string>
+</resources>
